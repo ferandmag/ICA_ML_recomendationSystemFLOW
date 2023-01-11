@@ -4,7 +4,7 @@
 
 1. [Github Account](https:/github.com)
 2. [VS Code IDE](http:/code.visualstudio.com)
-. [Git CLI](https://cli.github.com)
+3. [Git CLI](https://cli.github.com)
 
 Create a new environment
 
